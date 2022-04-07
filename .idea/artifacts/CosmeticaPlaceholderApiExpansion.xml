@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CosmeticaPlaceholderApiExpansion">
+    <output-path>$PROJECT_DIR$/../../Minecraft Servers/1.8 Test Server/plugins/PlaceholderAPI/expansions</output-path>
+    <root id="archive" name="CosmeticaPlaceholderApiExpansion.jar">
+      <element id="module-output" name="Cosmetica PlaceholderApi Expansion" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.11/commons-codec-1.11.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

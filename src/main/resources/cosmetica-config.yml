@@ -1,0 +1,3 @@
+server-ip: 127.0.0.1:25565 # ip of server or bungeecord/proxy users connect to. MUST be IP:PORT, no hostnames and port must be included
+data-refresh-period: 30 # how long before contacting cosmetica to update data (minutes)
+data-expire-period: 60 # how long before removing data entirely (minutes)
