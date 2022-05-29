@@ -16,7 +16,6 @@ import org.bukkit.entity.Player;
 import java.io.*;
 import java.net.URLEncoder;
 import java.nio.charset.StandardCharsets;
-import java.nio.file.StandardCopyOption;
 import java.util.*;
 
 public class CosmeticaPlaceholderApiExpansion extends PlaceholderExpansion {
